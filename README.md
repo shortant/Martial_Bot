@@ -15,3 +15,5 @@ Businesses want to avoid losing potential sales due to system failures in respon
 Finally, one of the most critical integrations involves Zapier hooks, which were incorporated into the bot to scrape conversations and extract user-provided emails and names, storing them in a Google sheet. This practice enables companies to maintain an organized list of potential clients, facilitating the delivery of information packets, special offers, or direct contact by the business. Clients engaging with the bot have a higher likelihood of converting into actual customers, making the retention of information on potential leads a substantial advantage in expanding clientele and retaining existing customers.
 
 Below, you can find a link to access the chatbot on an external website, and a .png file has been provided to visualize how the nodes are interconnected, and the bot navigates conversations.
+
+[chat bot link](https://mediafiles.botpress.cloud/2c4e930c-f82a-41a1-b102-c56e55c77b04/webchat/bot.html)
